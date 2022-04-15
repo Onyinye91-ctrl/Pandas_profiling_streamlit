@@ -1,0 +1,4 @@
+streamlit==1.8.1
+pandas==1.2.4
+pandas_profiling==2.8.0
+streamlit_pandas_profiling==0.1.3
